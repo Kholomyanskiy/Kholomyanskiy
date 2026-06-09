@@ -27,7 +27,7 @@ Language markets: Russian-speaking globally (EU, USA, CIS), English
 - Type: Paid methodology product
 - Purpose: Structured approach to deciding when/how to implement AI in business
 - Languages: Russian, English, Polish
-- URL: https://kholomyanskiy.gumroad.com
+- URL: https://aimethodology.gumroad.com/
 - Topics: AI ROI, automation readiness, business process analysis
 
 ### Solo Founder OS

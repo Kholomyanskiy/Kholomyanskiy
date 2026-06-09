@@ -19,7 +19,7 @@ Covers: requirements, architecture, testing, acceptance criteria, ROI.
 ### 🔷 AI Automation Decision System
 Structured methodology for deciding when and how to implement AI in business operations.
 Available in Russian, English, and Polish.
-→ [Available on Gumroad](https://kholomyanskiy.gumroad.com)
+→ [Available on Gumroad](https://aimethodology.gumroad.com/)
 
 ### 🔷 Pawnshop Automation (Anonymized Case)
 Full automation of a 3-branch pawnshop network: FastAPI backend, PostgreSQL, Telegram bot for staff.
@@ -68,6 +68,6 @@ Specialization: practical AI implementation for small and medium business.
 
 **Ключевые продукты:**
 - [ANSS Standard](https://github.com/Kholomyanskiy/anss-standard) — открытый стандарт оценки AI-систем (RU + EN)
-- [AI Automation Decision System](https://kholomyanskiy.gumroad.com) — методология принятия решений об AI-автоматизации (RU + EN + PL)
+- [AI Automation Decision System](https://aimethodology.gumroad.com/) — методология принятия решений об AI-автоматизации (RU + EN + PL)
 
 **Контакт Telegram:** kholomyanskiy@gmail.com | [@kholomyanskiy](https://t.me/kholomyanskiy)
