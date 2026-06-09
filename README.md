@@ -32,6 +32,16 @@ AI agent team system for solo founders — replacing traditional staff roles wit
 working through Claude Code. Roles: Architect, Backend, Frontend, DevOps, QA, Sales, SMM, Legal.
 → [github.com/Kholomyanskiy/solo-founder-os](https://github.com/Kholomyanskiy/solo-founder-os)
 
+### 🔷 AI Agent Acceptance Checklist
+10-section pass/fail checklist for evaluating AI agents before production deployment.
+Covers: scope, system prompt quality, tool access, security, testing, observability.
+→ [github.com/Kholomyanskiy/ai-agent-checklist](https://github.com/Kholomyanskiy/ai-agent-checklist)
+
+### 🔷 AI Requirements Template
+Structured TZ template for AI projects — 15 sections including AI-specific requirements,
+invariants, agent architecture, and data that must NOT reach the model.
+→ [github.com/Kholomyanskiy/ai-requirements-template](https://github.com/Kholomyanskiy/ai-requirements-template)
+
 ### 🔷 AI Infrastructure Investment Research
 Analytical brief covering 60+ companies across 5 sectors: chips, energy, rare earth metals,
 water/grid infrastructure, cybersecurity. Thesis-driven analysis of AI infrastructure investment landscape.
