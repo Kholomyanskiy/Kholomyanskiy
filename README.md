@@ -25,10 +25,12 @@ Available in Russian, English, and Polish.
 Full automation of a 3-branch pawnshop network: FastAPI backend, PostgreSQL, Telegram bot for staff.
 Covers: item intake, valuation workflow, client notifications, branch reporting.
 Stack: Python, FastAPI, PostgreSQL, python-telegram-bot.
+→ [github.com/Kholomyanskiy/lombard-automation](https://github.com/Kholomyanskiy/lombard-automation)
 
 ### 🔷 Solo Founder OS
 AI agent team system for solo founders — replacing traditional staff roles with structured AI agents
 working through Claude Code. Roles: Architect, Backend, Frontend, DevOps, QA, Sales, SMM, Legal.
+→ [github.com/Kholomyanskiy/solo-founder-os](https://github.com/Kholomyanskiy/solo-founder-os)
 
 ### 🔷 AI Infrastructure Investment Research
 Analytical brief covering 60+ companies across 5 sectors: chips, energy, rare earth metals,
