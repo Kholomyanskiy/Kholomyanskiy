@@ -70,4 +70,4 @@ Specialization: practical AI implementation for small and medium business.
 - [ANSS Standard](https://github.com/Kholomyanskiy/anss-standard) — открытый стандарт оценки AI-систем (RU + EN)
 - [AI Automation Decision System](https://kholomyanskiy.gumroad.com) — методология принятия решений об AI-автоматизации (RU + EN + PL)
 
-**Контакт:** kholomyanskiy@gmail.com | [@kholomyanskiy](https://t.me/kholomyanskiy)
+**Контакт Telegram:** kholomyanskiy@gmail.com | [@kholomyanskiy](https://t.me/kholomyanskiy)
