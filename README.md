@@ -21,13 +21,13 @@ Structured methodology for deciding when and how to implement AI in business ope
 Available in Russian, English, and Polish.
 → [Available on Gumroad](https://aimethodology.gumroad.com/)
 
-### 🔷 Pawnshop Automation (Anonymized Case)
-Full automation of a 3-branch pawnshop network: FastAPI backend, PostgreSQL, Telegram bot for staff.
-Covers: item intake, valuation workflow, client notifications, branch reporting.
-Stack: Python, FastAPI, PostgreSQL, python-telegram-bot.
+### 🔷 LombardPRO — Pawnshop Network Management
+Full ANSS-Core specification (6,200 lines) for a 3-branch pawnshop network automation.
+Stack: FastAPI, PostgreSQL, Telegram bot for staff and owner.
+Project in negotiation. Anonymized spec: [anss-standard/examples](https://github.com/Kholomyanskiy/anss-standard/tree/master/examples)
 → [github.com/Kholomyanskiy/lombard-automation](https://github.com/Kholomyanskiy/lombard-automation)
 
-### 🔷 Solo Founder OS
+### 🔷 Solo Founder OS *(in development)*
 AI agent team system for solo founders — replacing traditional staff roles with structured AI agents
 working through Claude Code. Roles: Architect, Backend, Frontend, DevOps, QA, Sales, SMM, Legal.
 → [github.com/Kholomyanskiy/solo-founder-os](https://github.com/Kholomyanskiy/solo-founder-os)
@@ -61,6 +61,8 @@ Specialization: practical AI implementation for small and medium business.
 
 ## Contact
 
+- 🌐 Website: [kholomyanskiy.github.io](https://kholomyanskiy.github.io)
+- 📋 Specification as a Service: [kholomyanskiy.github.io/spec.html](https://kholomyanskiy.github.io/spec.html)
 - 📧 kholomyanskiy@gmail.com
 - 💬 Telegram: [@kholomyanskiy](https://t.me/kholomyanskiy)
 - 💼 LinkedIn: [linkedin.com/in/kholomyanskiy](https://linkedin.com/in/kholomyanskiy)
