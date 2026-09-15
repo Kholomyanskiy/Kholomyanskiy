@@ -16,8 +16,8 @@
 
 ## Links
 
-- [kholomyanskiy.github.io](https://kholomyanskiy.github.io)
-- [Specification as a Service](https://kholomyanskiy.github.io/spec.html)
+- [kholomyanskiy.com](https://kholomyanskiy.com)
+- [Specification as a Service](https://kholomyanskiy.com/spec.html)
 - [LinkedIn](https://linkedin.com/in/kholomyanskiy)
-- kholomyanskiy@gmail.com
+- artem@kholomyanskiy.com
 - [Telegram: @kholomyanskiy](https://t.me/kholomyanskiy)
