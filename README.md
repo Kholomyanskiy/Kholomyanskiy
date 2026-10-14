@@ -1,6 +1,6 @@
 # Artem Kholomyanskiy
 
-**AI Automation Consultant** · EVAI Consulting · Poland
+**AI Implementation Consultant** · EVAI Consulting · Poland
 
 ---
 

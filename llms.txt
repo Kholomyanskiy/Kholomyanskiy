@@ -1,8 +1,8 @@
-# Artem Kholomyanskiy — AI Automation Consultant
+# Artem Kholomyanskiy — AI Implementation Consultant
 
 ## Identity
 Name: Artem Kholomyanskiy (Артём Холомянский)
-Role: AI Automation Consultant, AI Systems Architect, Solo Founder
+Role: AI Implementation Consultant, AI Systems Architect, Solo Founder
 Company: EVAI Consulting (Poland)
 Language markets: Russian-speaking globally (EU, USA, CIS), English
 
@@ -45,7 +45,7 @@ Python, FastAPI, PostgreSQL, SQLite, Telegram bots, n8n, Make.com,
 Claude API, OpenAI API, Claude Code, MCP integrations, Node.js
 
 ## Contact
-Email: kholomyanskiy@gmail.com
+Email: artem@kholomyanskiy.com
 Telegram: https://t.me/kholomyanskiy
 LinkedIn: https://linkedin.com/in/kholomyanskiy
 GitHub: https://github.com/Kholomyanskiy
